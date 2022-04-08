@@ -11,4 +11,4 @@ A linear search, also known as a sequential search, is a method of finding an el
 4. If the element does not match, then move to the next element.
 5. If there is no match or the search element is not present in the given array, return -1.
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fqawithexperts.com%2Farticle%2Fc-cpp%2Fbinary-search-program-in-c-with-algorithm%2F171&psig=AOvVaw3jGTv_l-Smxq1iYcmdq76j&ust=1649513294884000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKixmITShPcCFQAAAAAdAAAAABAD)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fqawithexperts.com%2Farticle%2Fc-cpp%2Fbinary-search-program-in-c-with-algorithm%2F171&psig=AOvVaw3jGTv_l-Smxq1iYcmdq76j&ust=1649513294884000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKixmITShPcCFQAAAAAdAAAAABAD.jpg)
